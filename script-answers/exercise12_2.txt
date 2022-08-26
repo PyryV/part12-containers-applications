@@ -1,0 +1,14 @@
+Script started on Fri Aug 26 13:43:43 2022
+[1m[7m%[27m[1m[0m                                                                                                                                   ]7;file://Pyrys-MacBook-Pro.local/Users/pyry/courses/part12-containers-applications[0m[27m[24m[Jpyry@Pyrys-MacBook-Pro part12-containers-applications % [K[?2004h[7mdocker container run -it ubuntu bash[27m[36D[27md[27mo[27mc[27mk[27me[27mr[27m [27mc[27mo[27mn[27mt[27ma[27mi[27mn[27me[27mr[27m [27mr[27mu[27mn[27m [27m-[27mi[27mt[27m [27mu[27mb[27mu[27mn[27mt[27mu[27m [27mb[27ma[27ms[27mh[?2004l
+[?2004h]0;root@e3a6b471a7be: /root@e3a6b471a7be:/# [K]0;root@e3a6b471a7be: /root@e3a6b471a7be:/# mkdir /usr/src/app
+[?2004l[?2004h]0;root@e3a6b471a7be: /root@e3a6b471a7be:/# touch /usr/src/app/index.js
+[?2004l[?2004h]0;root@e3a6b471a7be: /root@e3a6b471a7be:/# [Kexit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                                                                   ]7;file://Pyrys-MacBook-Pro.local/Users/pyry/courses/part12-containers-applications[0m[27m[24m[Jpyry@Pyrys-MacBook-Pro part12-containers-applications % [K[?2004hr eexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Fri Aug 26 13:44:44 2022
